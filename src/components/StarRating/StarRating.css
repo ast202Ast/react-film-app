@@ -1,0 +1,28 @@
+.default {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.custom {
+  display: flex;
+  align-items: center;
+  gap: 70px;
+}
+
+.stars-container {
+  display: flex;
+  gap: 1px;
+}
+
+.stars-button {
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  font: inherit;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+}
