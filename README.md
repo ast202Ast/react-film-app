@@ -1,12 +1,18 @@
-# react-film-app
+## react-film-app
+Cette application permet de rechercher et noter des films.
 
-Membres du groupe 3 :
+#### 1. Spécifications techniques
+- React + TypeScript
+- Tailwind CSS + 🌼daisyUI
 
-1- AMETEPE Malthus 
-2- Carnell Charbel 
-3- DINGBOE Roméo 
-4- GBAGUIDI AISSE Hillary
-5- HOUNTONDJI Jephté
+#### 2. Installation après clonage du repo :
+- `cd react-film-app`
+- `npm install`
+- `npm run dev`
 
-- Pour lancer le projet :
-npm run dev
+#### 3. Membres du groupe 3 :
+- AMETEPE Malthus
+- THON Charbel
+- DINGBOE Roméo
+- GBAGUIDI AISSE Hillary
+- HOUNTONDJI Jephté
